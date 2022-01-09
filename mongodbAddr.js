@@ -1,0 +1,1 @@
+module.exports = 'mongodb://192.168.0.47:27017/Schoolem'
